@@ -1,0 +1,1 @@
+{"name":"osi-house-os","version":"0.1.0","private":true,"description":"Browser-local condominium management prototype","scripts":{"test":"node --check frontend/app.js && node --test tests/*.test.cjs"},"engines":{"node":">=22"},"license":"MIT"}
