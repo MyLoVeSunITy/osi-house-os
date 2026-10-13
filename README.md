@@ -57,7 +57,7 @@ Open http://localhost:8080. No npm install or API keys are required. HTTPS or lo
 
 ## Deploy on GitHub Pages
 
-After creating the repository, upload these files. In repository Settings → Pages, select **GitHub Actions** as the source. Run the **Deploy demo to Pages** workflow manually. The workflow publishes only `frontend/`; it does not publish account credentials or local demo storage. It requires Pages availability for the chosen account/repository visibility. A working deployment does not add authentication or a backend.
+The source is published at https://github.com/MyLoVeSunITy/osi-house-os. In repository Settings → Pages, select **GitHub Actions** as the source. Run the **Deploy demo to Pages** workflow manually. The workflow publishes only `frontend/`; it does not publish account credentials or local demo storage. It requires Pages availability for the chosen account/repository visibility. A working deployment does not add authentication or a backend.
 
 ## Business model hypothesis
 

@@ -27,7 +27,7 @@ Prototype and packaging prepared in October 2026 with AI assistance. README/docu
 ## Links
 Demo: https://osi-house-os.apttrout64.chatgpt.site (owner-private at packaging time).
 Deck: https://docs.google.com/presentation/d/1vTlbUepz8zktoqxUN8jf4oQgW5a4aPmT93GSWsi3xOo/edit.
-Repository: pending creation/publication in the founder's GitHub account.
+Repository: https://github.com/MyLoVeSunITy/osi-house-os.
 Pitch video: not recorded.
 Demo video: not recorded.
 

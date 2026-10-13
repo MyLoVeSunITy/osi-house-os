@@ -2,7 +2,7 @@
 Interactive hackathon prototype for condominium management. Russian-language product with an English project brief available in Documents.
 
 ## Run
-Serve `dist/` with any static HTTPS server. No build or runtime dependencies. `python3 -m http.server 8080 --directory dist` is sufficient for localhost development.
+Serve `frontend/` with any static HTTPS server. No build or runtime dependencies. `python3 -m http.server 8080 --directory frontend` is sufficient for localhost development.
 
 ## Implemented
 - Create and search requests; priority, category, location, details and status transitions.
